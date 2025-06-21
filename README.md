@@ -39,7 +39,7 @@ A seguir, algumas imagens e um vídeo demonstrativo do jogo:
 
 ### 🎥 Vídeo
 
-📹 [Clique aqui para assistir ao vídeo do jogo](doc/video.mp4)
+https://github.com/user-attachments/assets/afc6d72c-bf16-4ecb-aae1-8b7e933c5cf7
 
 ---
 
