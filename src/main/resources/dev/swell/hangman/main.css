@@ -1,0 +1,13 @@
+
+.text-field.error {
+    -fx-border-color: red;
+    -fx-border-width: 2px;
+    -fx-text-fill: white;
+    -fx-background-color: #ca0303;
+}
+.text-field.success {
+    -fx-border-color: green;
+    -fx-border-width: 2px;
+    -fx-text-fill: white;
+    -fx-background-color: #237723;
+}
